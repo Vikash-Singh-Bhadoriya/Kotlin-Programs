@@ -14,4 +14,6 @@ fun main() {
     }
 
     println(if (leap) "$year is a leap year." else "$year is not a leap year.")
+    println("Thanks for using our program :)")
+    
 }
