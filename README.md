@@ -5,6 +5,7 @@
 * *Fibonacci Series*
 * *Check Leap Year*
 * *LCM of 2 numbers*
+* *Sum of n natural numbers*
 * ***and many more.............***
 <br />
 
